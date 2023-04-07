@@ -9,7 +9,7 @@
 - Grafana + Prometheus + Node_exporter
 - Memcached
 - testing+gomock
-- Clean Architecture
+- Clean & Microservice Architecture
 
 ---
 ### [Функциональные автотесты (Python+Selenium Webdriver)](https://github.com/Natali-Skv/technopark_qa_homework-selenium)
