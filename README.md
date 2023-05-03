@@ -10,6 +10,8 @@
 - Memcached
 - testing+gomock
 - Clean & Microservice Architecture
+- JWT
+- [Easyjson](https://github.com/mailru/easyjson)
 
 ---
 ### [Функциональные автотесты (Python+Selenium Webdriver)](https://github.com/Natali-Skv/technopark_qa_homework-selenium)
